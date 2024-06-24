@@ -16,4 +16,5 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '14.x'
-    - run: echo "Your CI pipeline is working!"
+    - run: npm ci
+    - run: npm test

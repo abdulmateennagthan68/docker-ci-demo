@@ -289,4 +289,4 @@ Test locally:
 Test scripts and commands locally to verify their behavior before integrating them into your workflow.
 Consult documentation:
 
-Refer to the [GitHub Actions documentation](https://docs.github.com
+Refer to the [GitHub Actions documentation](https://docs.github.com)
